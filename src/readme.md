@@ -1,8 +1,7 @@
 # SearchForma - Design Scope 3: Terminology & Help System
 ## Scope of Work Document
 
-**Project:** SearchForma
-**Version:** 3.0  
+**Project:** SearchForma 3.0  
 **Date:** December 25, 2024
 
 ---
