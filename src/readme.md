@@ -1,8 +1,8 @@
 # SearchForma - Design Scope 3: Terminology & Help System
 ## Scope of Work Document
 
-**Project:** SearchForma Educational Help System  
-**Version:** 1.0  
+**Project:** SearchForma 
+**Version:** 3.0  
 **Date:** December 25, 2024
 
 ---
