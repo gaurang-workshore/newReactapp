@@ -242,9 +242,6 @@ The following items are NOT included:
 - Writing glossary definitions (client provides)
 - Writing disclaimer legal copy (client provides)
 - Changing existing page layouts (only adding icons)
-- Backend API changes (unless needed for glossary data)
-- SEO optimization
-- Analytics setup (beyond basic event tracking)
 
 ---
 
