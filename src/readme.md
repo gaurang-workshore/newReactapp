@@ -245,18 +245,6 @@ The following items are NOT included:
 
 ---
 
-## 6. RISKS & MITIGATION
-
-| Risk | Impact | Mitigation |
-|------|--------|------------|
-| Client delays providing glossary content | High | Start with sample terms, build infrastructure |
-| Too many info icons overwhelming users | Medium | A/B test icon density, user feedback |
-| Email deliverability issues | Medium | Test with multiple email clients, follow best practices |
-| Mobile tooltip UX challenges | Medium | Prototype early, user test on mobile devices |
-| Performance impact of tooltips | Low | Lazy load, optimize rendering |
-
----
-
 ## APPENDIX A: TERM CATEGORIES
 
 **Suggested Categories for Glossary:**
